@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 80" width="260" height="80">
-  <rect width="260" height="80" rx="12" fill="#1D4ED8"/>
-  <circle cx="42" cy="40" r="18" fill="#93C5FD"/>
-  <text x="152" y="46" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">MAIN : 3000</text>
+  <rect width="260" height="80" rx="12" fill="#059669"/>
+  <polygon points="42,20 60,56 24,56" fill="#6EE7B7"/>
+  <text x="152" y="46" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">DEV : 3001</text>
 </svg>
