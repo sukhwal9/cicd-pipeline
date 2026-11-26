@@ -1,5 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 80" width="260" height="80">
-  <rect width="260" height="80" rx="12" fill="#1D4ED8"/>
-  <circle cx="42" cy="40" r="18" fill="#93C5FD"/>
-  <text x="152" y="46" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">MAIN : 3000</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <circle cx="60" cy="60" r="54" fill="#F0D6B7" stroke="#333533" stroke-width="4"/>
+  <!-- Jenkins butler cap / bowler hat -->
+  <path d="M34 46 C34 26, 86 26, 86 46 Z" fill="#333533"/>
+  <rect x="26" y="45" width="68" height="6" rx="3" fill="#333533"/>
+  <!-- Eyes -->
+  <circle cx="48" cy="58" r="4" fill="#333533"/>
+  <circle cx="72" cy="58" r="4" fill="#333533"/>
+  <!-- Mustache -->
+  <path d="M40 72 Q50 66 60 72 Q70 66 80 72 Q72 78 60 74 Q48 78 40 72 Z" fill="#8B5A2B"/>
+  <!-- Bowtie -->
+  <polygon points="60,88 46,82 46,94" fill="#D33833"/>
+  <polygon points="60,88 74,82 74,94" fill="#D33833"/>
+  <circle cx="60" cy="88" r="4" fill="#B91C1C"/>
 </svg>
